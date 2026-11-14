@@ -18,4 +18,4 @@ Practical demonstrations of core HTML5 and CSS3 concepts:
 
 ## Tech
 * **Markup & Styling:** HTML5, CSS3 (Custom CSS, Flexbox, Grid)
-* **Hosting:** GitHub Pages (`Blur-mirror.github.io`)
+* **Hosting:** GitHub Pages (`CL-14.github.io`)
